@@ -58,18 +58,3 @@ This repository is designed to take you from **Python Beginner to Advanced level
 
 ---
 
-## 📂 Repository Structure
-
-python-projects/
-│
-├── beginner/
-│ ├── basics/
-│ ├── loops/
-│ ├── functions/
-│ └── data_structures/
-│
-├── intermediate/
-│ ├── oop/
-│ ├── file_handling/
-│ └── modules/
-└── README.md
